@@ -13,3 +13,9 @@ A curated list of awesome ML frameworks and text embeddings.
 * [Transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers
 
 * [bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model. https://bert-as-service.readthedocs.io
+
+## Knowledge
+
+### Python Notebooks
+
+* [practicalAI](https://github.com/practicalAI/practicalAI) - A practical approach to machine learning to enable everyone to learn, explore and build. https://practicalai.me
