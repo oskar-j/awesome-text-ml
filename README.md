@@ -8,6 +8,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 #### Machine Learning
 
+* [artificial-adversary](https://github.com/airbnb/artificial-adversary) - Tool to generate adversarial text examples and test machine learning models against them.
+
 #### Deep Learning
 
 * [Transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers
