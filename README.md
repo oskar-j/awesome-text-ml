@@ -24,6 +24,12 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [Snips NLU](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text. https://snips-nlu.readthedocs.io
 
+### C++
+
+#### Text processing
+
+* [MeTA: ModErn Text Analysis](https://github.com/meta-toolkit/meta) - A Modern C++ Data Sciences Toolkit. https://meta-toolkit.org
+
 ## Knowledge
 
 ### Python Notebooks
