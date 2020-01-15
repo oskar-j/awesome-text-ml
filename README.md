@@ -22,6 +22,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [Kashgari](https://github.com/BrikerMan/Kashgari) -  Kashgari is a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
 
+* [DELTA](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform. https://delta-didi.readthedocs.io/
+
 #### Natural Language Understanding
 
 * [Snips NLU](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text. https://snips-nlu.readthedocs.io
