@@ -10,6 +10,10 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification via one unified interface. https://bbs.hankcs.com/
 
+#### Pipelines / block-programming
+
+* [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego.
+
 #### Machine Learning
 
 * [artificial-adversary](https://github.com/airbnb/artificial-adversary) - Tool to generate adversarial text examples and test machine learning models against them.
