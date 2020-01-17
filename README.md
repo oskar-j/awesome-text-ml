@@ -32,6 +32,14 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [Snips NLU](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text. https://snips-nlu.readthedocs.io
 
+#### Text mining
+
+* [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
+
+#### Visualizations
+
+* [Scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
+
 ### C++
 
 #### Text processing
