@@ -28,6 +28,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [DELTA](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform. https://delta-didi.readthedocs.io/
 
+* [EventForecast](https://github.com/moment-of-peace/EventForecast) - Time series prediction and text analysis using Keras LSTM, plus clustering, association rules mining.
+
 #### Natural Language Understanding
 
 * [Snips NLU](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text. https://snips-nlu.readthedocs.io
