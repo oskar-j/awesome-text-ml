@@ -34,6 +34,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [Snips NLU](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text. https://snips-nlu.readthedocs.io
 
+* [IKY](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+
 #### Text mining
 
 * [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
