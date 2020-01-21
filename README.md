@@ -50,6 +50,10 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [MeTA: ModErn Text Analysis](https://github.com/meta-toolkit/meta) - A Modern C++ Data Sciences Toolkit. https://meta-toolkit.org
 
+#### Natural Language Understanding
+
+* [Rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning. https://picovoice.ai/
+
 ## Knowledge
 
 ### Python Notebooks
