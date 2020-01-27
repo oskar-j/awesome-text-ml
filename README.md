@@ -56,6 +56,10 @@ A curated list of awesome ML frameworks and text embeddings.
 
 ## Knowledge
 
-### Python Notebooks
+### Multiple languages
+
+* [Awesome Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis) - Repository with all what is necessary for sentiment analysis and related areas
+
+### Python (and Python Notebooks)
 
 * [practicalAI](https://github.com/practicalAI/practicalAI) - A practical approach to machine learning to enable everyone to learn, explore and build. https://practicalai.me
