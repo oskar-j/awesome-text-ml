@@ -36,6 +36,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [IKY](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 
+* [rasa](https://github.com/RasaHQ/rasa) - Framework to automate text- and voice-based conversations: NLU, dialogue management, chatbots. https://rasa.com/docs/rasa/
+
 #### Text mining
 
 * [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
