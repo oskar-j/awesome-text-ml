@@ -10,6 +10,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification via one unified interface. https://bbs.hankcs.com/
 
+* [flair](https://github.com/flairNLP/flair) - A powerful NLP library for state-of-the-art natural language processing (NLP) models, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification.
+
 #### Pipelines / block-programming
 
 * [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego.
