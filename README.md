@@ -24,6 +24,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [Transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers
 
+* [fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. https://fairseq.readthedocs.io/en/latest/
+
 * [bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model. https://bert-as-service.readthedocs.io
 
 * [Kashgari](https://github.com/BrikerMan/Kashgari) -  Kashgari is a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
