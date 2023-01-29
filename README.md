@@ -56,7 +56,7 @@ Currently empty 🪹
 
 * [Rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning. https://picovoice.ai/
 
-## Knowledge
+## Knowledge 📚
 
 ### Multiple languages
 
