@@ -18,7 +18,7 @@ Currently empty 🪹
 
 #### Machine Learning
 
-...
+Currently empty 🪹
 
 #### Deep Learning
 
@@ -40,7 +40,7 @@ Currently empty 🪹
 
 #### Text mining
 
-* [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
+Currently empty 🪹
 
 #### Visualizations
 
@@ -75,3 +75,5 @@ Currently empty 🪹
 * [DELTA](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform. https://delta-didi.readthedocs.io/
 
 * [EventForecast](https://github.com/moment-of-peace/EventForecast) - Time series prediction and text analysis using Keras LSTM, plus clustering, association rules mining.
+
+* [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
