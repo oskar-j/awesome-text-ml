@@ -16,6 +16,10 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero. https://texthero.org/
 
+#### Distributed computing
+
+* [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - Spark NLP is a state-of-the-art Natural Language Processing library built on top of Apache Spark. https://nlp.johnsnowlabs.com/
+
 #### Machine Learning
 
 Currently empty 🪹
