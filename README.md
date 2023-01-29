@@ -14,11 +14,11 @@ A curated list of awesome ML frameworks and text embeddings.
 
 #### Pipelines / block-programming
 
-* [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego.
+Currently empty 🪹
 
 #### Machine Learning
 
-* [artificial-adversary](https://github.com/airbnb/artificial-adversary) - Tool to generate adversarial text examples and test machine learning models against them.
+...
 
 #### Deep Learning
 
@@ -29,10 +29,6 @@ A curated list of awesome ML frameworks and text embeddings.
 * [bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model. https://bert-as-service.readthedocs.io
 
 * [Kashgari](https://github.com/BrikerMan/Kashgari) -  Kashgari is a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
-
-* [DELTA](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform. https://delta-didi.readthedocs.io/
-
-* [EventForecast](https://github.com/moment-of-peace/EventForecast) - Time series prediction and text analysis using Keras LSTM, plus clustering, association rules mining.
 
 #### Natural Language Understanding
 
@@ -69,3 +65,13 @@ A curated list of awesome ML frameworks and text embeddings.
 ### Python (and Python Notebooks)
 
 * [practicalAI](https://github.com/practicalAI/practicalAI) - A practical approach to machine learning to enable everyone to learn, explore and build. https://practicalai.me
+
+## No longer maintained
+
+* [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego.
+
+* [artificial-adversary](https://github.com/airbnb/artificial-adversary) - Tool to generate adversarial text examples and test machine learning models against them.
+
+* [DELTA](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform. https://delta-didi.readthedocs.io/
+
+* [EventForecast](https://github.com/moment-of-peace/EventForecast) - Time series prediction and text analysis using Keras LSTM, plus clustering, association rules mining.
