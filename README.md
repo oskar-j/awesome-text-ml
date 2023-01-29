@@ -42,6 +42,8 @@ Currently empty 🪹
 
 * [rasa](https://github.com/RasaHQ/rasa) - Framework to automate text- and voice-based conversations: NLU, dialogue management, chatbots. https://rasa.com/docs/rasa/
 
+* [ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets. https://parl.ai/
+
 #### Text mining
 
 Currently empty 🪹
