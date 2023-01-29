@@ -14,7 +14,7 @@ A curated list of awesome ML frameworks and text embeddings.
 
 #### Pipelines / block-programming
 
-Currently empty 🪹
+* [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero. https://texthero.org/
 
 #### Machine Learning
 
