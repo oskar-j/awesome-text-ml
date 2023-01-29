@@ -50,7 +50,7 @@ Currently empty 🪹
 
 #### Text processing
 
-* [MeTA: ModErn Text Analysis](https://github.com/meta-toolkit/meta) - A Modern C++ Data Sciences Toolkit. https://meta-toolkit.org
+Currently empty 🪹
 
 #### Natural Language Understanding
 
@@ -77,3 +77,5 @@ Currently empty 🪹
 * [EventForecast](https://github.com/moment-of-peace/EventForecast) - Time series prediction and text analysis using Keras LSTM, plus clustering, association rules mining.
 
 * [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
+
+* [MeTA: ModErn Text Analysis](https://github.com/meta-toolkit/meta) - A Modern C++ Data Sciences Toolkit. https://meta-toolkit.org
