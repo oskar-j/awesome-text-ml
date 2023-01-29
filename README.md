@@ -12,6 +12,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [flair](https://github.com/flairNLP/flair) - A powerful NLP library for state-of-the-art natural language processing (NLP) models, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification.
 
+* [sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation. 
+
 #### Pipelines / block-programming
 
 * [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero. https://texthero.org/
