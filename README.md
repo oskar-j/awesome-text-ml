@@ -14,6 +14,8 @@ A curated list of awesome ML frameworks and text embeddings.
 
 * [sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation. 
 
+* [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages. https://stanfordnlp.github.io/stanza/
+
 #### Pipelines / block-programming
 
 * [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero. https://texthero.org/
