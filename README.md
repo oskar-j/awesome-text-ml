@@ -1,6 +1,6 @@
 # Awesome software for Text ML [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome ML frameworks and text embeddings.
+A curated list of awesome ML frameworks and text embeddings. Focused on SOTA libraries which are actively maintained on GitHub.
 
 ## Frameworks and libraries
 
@@ -47,6 +47,8 @@ A curated list of awesome ML frameworks and text embeddings.
 * [rasa](https://github.com/RasaHQ/rasa) - Framework to automate text- and voice-based conversations: NLU, dialogue management, chatbots. https://rasa.com/docs/rasa/
 
 * [ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets. https://parl.ai/
+
+* [DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots. https://deeppavlov.ai/
 
 #### Text mining
 
