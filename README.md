@@ -26,6 +26,8 @@ A curated list of awesome ML frameworks and text embeddings. Focused on SOTA lib
 
 #### Machine Learning
 
+* [sklearn](https://github.com/scikit-learn/scikit-learn) - Scikit-learn is a Python module for machine learning built on top of SciPy, including tools for text vectorization and vector space compression. https://scikit-learn.org/stable/
+
 * [gensim](https://github.com/RaRe-Technologies/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community. https://radimrehurek.com/gensim/
 
 #### Deep Learning
