@@ -54,6 +54,8 @@ A curated list of awesome ML frameworks and text embeddings. Focused on SOTA lib
 
 * [Rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning. https://picovoice.ai/
 
+* [langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs (large language models) through composability. https://langchain.readthedocs.io
+
 #### Text mining
 
 Currently empty 🪹
