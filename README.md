@@ -52,6 +52,8 @@ A curated list of awesome ML frameworks and text embeddings. Focused on SOTA lib
 
 * [DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots. https://deeppavlov.ai/
 
+* [Rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning. https://picovoice.ai/
+
 #### Text mining
 
 Currently empty 🪹
@@ -65,10 +67,6 @@ Currently empty 🪹
 #### Text processing
 
 Currently empty 🪹
-
-#### Natural Language Understanding
-
-* [Rhino](https://github.com/Picovoice/rhino) - On-device speech-to-intent engine powered by deep learning. https://picovoice.ai/
 
 ## Knowledge 📚
 
