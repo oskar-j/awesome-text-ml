@@ -56,6 +56,8 @@ A curated list of awesome ML frameworks and text embeddings. Focused on SOTA lib
 
 * [langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs (large language models) through composability. https://langchain.readthedocs.io
 
+* [NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI. https://nvidia.github.io/NeMo/
+
 #### Text mining
 
 Currently empty 🪹
