@@ -30,6 +30,10 @@ A curated list of awesome ML frameworks and text embeddings. Focused on SOTA lib
 
 * [gensim](https://github.com/RaRe-Technologies/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community. https://radimrehurek.com/gensim/
 
+* [nlpaug](https://github.com/makcedward/nlpaug) - Augmenting nlp for your machine learning projects.
+
+* [AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library from Facebook research for audio, image, text, and video.
+
 #### Deep Learning
 
 * [Transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers
