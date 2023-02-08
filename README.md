@@ -64,7 +64,7 @@ A curated list of awesome ML frameworks and text embeddings. Focused on SOTA lib
 
 #### Text mining
 
-Currently empty 🪹
+* [dedupe](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 
 #### Visualizations
 
