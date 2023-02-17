@@ -78,6 +78,10 @@ Currently empty 🪹
 
 ## Knowledge 📚
 
+### Learning 101
+
+* [Virgilio](https://github.com/virgili0/Virgilio) - Virgilio is an open-source initiative, aiming to mentor and guide anyone in the world of the Data Science.
+
 ### Multiple languages
 
 * [Awesome Sentiment Analysis](https://github.com/laugustyniak/awesome-sentiment-analysis) - Repository with all what is necessary for sentiment analysis and related areas
