@@ -90,6 +90,8 @@ Currently empty 🪹
 
 * [practicalAI](https://github.com/practicalAI/practicalAI) - A practical approach to machine learning to enable everyone to learn, explore and build. https://practicalai.me
 
+* [nlp-recipes](https://github.com/microsoft/nlp-recipes) - Comprehensive set of tools and examples that leverage recent advances in NLP algorithms, neural architectures, and distributed machine learning systems.
+
 ## No longer maintained
 
 * [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego.
