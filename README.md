@@ -70,6 +70,10 @@ A curated list of awesome ML frameworks and text embeddings. Focused on SOTA lib
 
 * [Scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
 
+#### Big language models
+
+* [BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models.
+
 ### C++
 
 #### Text processing
